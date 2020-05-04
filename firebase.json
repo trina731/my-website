@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "/Users/trinachatterjee/Documents/myWebsite",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

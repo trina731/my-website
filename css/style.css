@@ -139,9 +139,9 @@ hr {
 .intro{
     position: relative;
     color:white;
-    margin-top:3%;
-    margin-left:3%;
-    margin-right:3%;
+    margin-top:0%;
+    margin-left:5%;
+    margin-right:5%;
     font-size: 20px;
     font-weight: 300;
     text-align: center;
@@ -414,6 +414,13 @@ hr {
 } 
 
   .projIntro{
+    position: relative;
+    margin-top: 12%; 
+    font-family: 'Domine';
+    font-weight: 400;
+  }
+
+  .projIntro2{
     position: relative;
     margin-top: 12%; 
     font-family: 'Domine';

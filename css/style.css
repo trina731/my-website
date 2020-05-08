@@ -79,8 +79,8 @@ hr {
     margin-left: 15%;
     margin-right: 15%;
     margin-top: 60%; 
-    width:65%;
-    height:28%;
+    width:100%;
+    height:auto;
 }
 
 .link-icon{
@@ -200,6 +200,17 @@ hr {
         height: 100vh;
   }
 
+/*figure {
+    display: inline-block;
+    padding: 5px;
+}
+figcaption {
+    margin: 10px 0 0 0;
+    font-variant: small-caps;
+    font-family: Arial;
+    font-weight: bold;
+    color: #bb3333;
+}*/
   /* Responsive navigation menu - display links on top of each other instead of next to each other (for mobile devices) */
   @media screen and (max-width: 600px) {
     .topnav a, .topnav-right {
@@ -393,7 +404,7 @@ hr {
     margin-right: 5%;
     font-family: 'Domine';
     font-weight: 400;
-    font-size: 20px;
+    font-size: 20vw;
   }
 
   .left-vertical { 
